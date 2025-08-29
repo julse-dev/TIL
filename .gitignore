@@ -1,0 +1,20 @@
+# macOS
+**/.DS_Store
+**/.AppleDouble
+**/.LSOverride
+
+# Thumbnails
+**/._*
+
+# macOS folder attributes
+**/.Spotlight-V100
+**/.Trashes
+
+# Windows
+**/Thumbs.db
+**/ehthumbs.db
+**/Desktop.ini
+
+# Linux
+**/*~
+**/.nfs*
